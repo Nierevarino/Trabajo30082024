@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\JuanDavidBermudezC\Taller29082024\TallerForWhileDowhile\bin\Debug\net8.0\TallerForWhileDowhile.exe
+C:\Users\admin\Documents\JuanDavidBermudezC\Taller29082024\TallerForWhileDowhile\bin\Debug\net8.0\TallerForWhileDowhile.deps.json
+C:\Users\admin\Documents\JuanDavidBermudezC\Taller29082024\TallerForWhileDowhile\bin\Debug\net8.0\TallerForWhileDowhile.runtimeconfig.json
+C:\Users\admin\Documents\JuanDavidBermudezC\Taller29082024\TallerForWhileDowhile\bin\Debug\net8.0\TallerForWhileDowhile.dll
+C:\Users\admin\Documents\JuanDavidBermudezC\Taller29082024\TallerForWhileDowhile\bin\Debug\net8.0\TallerForWhileDowhile.pdb
+C:\Users\admin\Documents\JuanDavidBermudezC\Taller29082024\TallerForWhileDowhile\obj\Debug\net8.0\TallerForWhileDowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\JuanDavidBermudezC\Taller29082024\TallerForWhileDowhile\obj\Debug\net8.0\TallerForWhileDowhile.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\JuanDavidBermudezC\Taller29082024\TallerForWhileDowhile\obj\Debug\net8.0\TallerForWhileDowhile.AssemblyInfo.cs
+C:\Users\admin\Documents\JuanDavidBermudezC\Taller29082024\TallerForWhileDowhile\obj\Debug\net8.0\TallerForWhileDowhile.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\JuanDavidBermudezC\Taller29082024\TallerForWhileDowhile\obj\Debug\net8.0\TallerForWhileDowhile.dll
+C:\Users\admin\Documents\JuanDavidBermudezC\Taller29082024\TallerForWhileDowhile\obj\Debug\net8.0\refint\TallerForWhileDowhile.dll
+C:\Users\admin\Documents\JuanDavidBermudezC\Taller29082024\TallerForWhileDowhile\obj\Debug\net8.0\TallerForWhileDowhile.pdb
+C:\Users\admin\Documents\JuanDavidBermudezC\Taller29082024\TallerForWhileDowhile\obj\Debug\net8.0\TallerForWhileDowhile.genruntimeconfig.cache
+C:\Users\admin\Documents\JuanDavidBermudezC\Taller29082024\TallerForWhileDowhile\obj\Debug\net8.0\ref\TallerForWhileDowhile.dll
